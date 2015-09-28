@@ -1,0 +1,30 @@
+
+*******************************************************************************************************
+
+			ANALIZADOR LÉXICO JULIA - COMPILADORES
+			
+*******************************************************************************************************
+
+
+1.COMPILACIÓN DO PROGRAMA
+-------------------------------
+Para compilar o programa abrimos un terminal e accedemos a carpeta do proxecto. Estando nesa ruta, executamos o comando: make
+
+Co cal recompilaremos os arquivos necesarios, e estaremos listos para a execución.
+
+
+2.EXECUCIÓN DO PROGRAMA
+-------------------------------
+Para executar o programa, abrimos a terminal e accedemos a carpeta do proxecto.
+Dende esa ruta, accedemos ao executable con: ./dist/Debug/GNU-Linux-x86/compiladores-1
+
+
+3.AXUDA PARA ANALIZAR O PROGRAMA
+---------------------------------
+Unha vez executado o programa, obtemos no terminal empregado, todos os números asignados aos compoñentes léxicos. Os compoñentes léxicos IDENTIFICADOR, mostrarán o lexema asociado.
+
+Para os demáis compoñentes léxicos: Revisar o arquivo de definicións, chamado: def.h e o código ASCII, para os operadores unitarios.
+_____________________________________________________________________________________________________
+
+			
+			DISFRUTE DO PROGRAMA, GRACIAS POLO SEU TEMPO

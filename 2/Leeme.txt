@@ -1,0 +1,26 @@
+
+*******************************************************************************************************
+
+			PRÁCTICA 2 - COMPILADORES
+			
+*******************************************************************************************************
+
+
+1.COMPILACIÓN E EXECUCIÓN DO PROGRAMA
+-------------------------------
+Para compilar o programa abrimos un terminal e accedemos a carpeta do proxecto (Compiladores-2). Estando nesa ruta, executamos o script creado para a ocasión: ./script.sh
+No caso de que non o poidamos executar, damos permisos a todo o proxecto, dende a mesma ruta: chmod 777 *
+
+Co cal recompilaremos os arquivos necesarios, e estaremos listos para a execución.
+
+
+
+2.AXUDA PARA ANALIZAR O PROGRAMA
+---------------------------------
+Unha vez executado o programa, obtemos no terminal empregado, todos os números asignados aos compoñentes léxicos. Os compoñentes léxicos IDENTIFICADOR, mostrarán o lexema asociado.
+
+Para os demáis compoñentes léxicos: Revisar o arquivo de definicións, chamado: def.h e o código ASCII, para os operadores unitarios.
+_____________________________________________________________________________________________________
+
+			
+			DISFRUTE DO PROGRAMA, GRACIAS POLO SEU TEMPO

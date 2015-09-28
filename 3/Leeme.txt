@@ -1,0 +1,43 @@
+
+*******************************************************************************************************
+
+			PRÁCTICA 3 - COMPILADORES
+			
+*******************************************************************************************************
+
+OBXECTIVO
+-------------------------------
+Desenrolar unha calculadora en c, empregando un analizador léxico (flex), un analizador sintáctico (bison) e unha táboa de símbolos (unha árbore binaria).
+
+
+1.COMPILACIÓN
+-------------------------------
+Para compilar o programa abrimos un terminal e accedemos a carpeta do proxecto (Compiladores-3). Estando nesa ruta, executamos o script creado para a ocasión: ./script.sh
+No caso de que non o poidamos executar, damos permisos a todo o proxecto, dende a mesma ruta: chmod 777 *
+
+Co cal recompilaremos os arquivos necesarios, e estaremos listos para a execución.
+
+
+2.EXECUCIÓN
+-------------------------------
+Para a execución, abrimos o executable creado anteriormente, pasando como parámetro operacions, arquivo donde se atopan as operacions a calcular.
+
+./calcular operacions
+
+Outra opción é executar o executable ./calcular.
+
+E realizar ti a operación manualmente: 
+Exemplo: x = 4 + 6; 
+
+3.AXUDA PARA ANALIZAR O PROGRAMA
+---------------------------------
+Unha vez executado o programa, obtemos no terminal empregado, todos os calculos realizados asignados a cada variable, as operacións que se van a realizar pódense ver no arquivo: operacions . 
+
+Para a realización desta práctica tomouse como punto de partida, o código desenrolado na pŕactica 2, seguindo como referencias o material empregado na clase, así como unha calculadora realizada pola Universidade de Vigo: ccia.ei.uvigo.es/docencia/PL_Grado/datos/IntrodBison.pdf
+.
+
+
+_____________________________________________________________________________________________________
+
+			
+			DISFRUTE DO PROGRAMA, GRACIAS POLO SEU TEMPO
